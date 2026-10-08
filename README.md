@@ -8,7 +8,7 @@ Personal portfolio website for Farai Kapopo, a Computer Information Systems stud
 
 ## 🌐 Live Site
 
-[View the live site](https://muse.ai/s/portfolio-xbs5xotwpnea7)
+[View the live site](https://farairudokapopo-code.github.io/Portfolio/)
 
 ## 🛠️ Built With
 
