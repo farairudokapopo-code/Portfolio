@@ -1,6 +1,4 @@
-Here you go — copy everything between the lines:
 
----
 
 # Farai Kapopo — Portfolio
 
